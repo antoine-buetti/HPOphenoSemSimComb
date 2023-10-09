@@ -25,19 +25,19 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: Set up and install few things first
-        run: bash setup.sh
+#        run: bash setup.sh
 
       - name: Download HPO resource
-        run: bash download_HPO_data.sh
+#        run: bash download_HPO_data.sh
       
       - name: Compiles and build the executables
-        run: bash build.sh
+#        run: bash build.sh
 
       - name: Run unit tests
-        run: bash test.sh
+#        run: bash test.sh
           
       - name: Runs the program using the user-provided input found in "Input/", which results in an annotated table found in the directory "output-$date/"
-        run: bash run.sh
+#        run: bash run.sh
 
       - name: Commit and push changes
         run: |

@@ -10,6 +10,6 @@ Alternatively one can execute locally the different steps as executed by the Git
 - build.sh : compiles and build the executables
 - test.sh : performs unit tests
 - run.sh : runs the program using the user-provided input found in "Input/", which results in an annotated table found in the directory "output-$date/"
- 
+
 
 

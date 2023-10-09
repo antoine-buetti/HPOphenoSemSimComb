@@ -1,0 +1,11 @@
+id;annotation_id;GeneName;genome_position;ref;alt;AMCG_classifications;AMCG_BayesPoints
+1;60220;GDF5;32889080;A;G;[PM2_Strong, PP2, PP3];4
+2;60233;HS6ST2;32890543;G;A;[PP3_Strong, PM2, PP5];4
+3;60221;LZTR1;32889363;G;A;[PP5_Moderate, PM2_Supporting, PP3];4
+4;60223;MKKS;32889669;C;T;[PM1_Strong, PM2_Strong, PP3_Strong, PM5, PP2, PP5];9
+5;60224;NRIP1;32889792;A;G;[PM2_Strong, PP5_Strong, PP3];4
+6;60226;RALGAPA1;32889968;G;A;[PP5_VeryStrong, PM1, PM5, PM2_Supporting, PP3];8
+7;60229;RBM10;32890026;C;T;[PM2_Strong, PP3, PP5];4
+8;60230;TSR2;32890164;G;A;[PM2_Strong, PP3_Strong];3
+9;60231;USP9X;32890227;G;T;[PM2_Strong, PP5_Moderate, PP3];4
+10;60232;ABL1;32890539;T;C;[PP5_Strong, PM2, PP3];4

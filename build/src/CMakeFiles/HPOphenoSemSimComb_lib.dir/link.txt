@@ -1,0 +1,2 @@
+/usr/bin/ar qc libHPOphenoSemSimComb_lib.a CMakeFiles/HPOphenoSemSimComb_lib.dir/PhenotypeIntegration.cpp.o CMakeFiles/HPOphenoSemSimComb_lib.dir/main.cpp.o
+/usr/bin/ranlib libHPOphenoSemSimComb_lib.a

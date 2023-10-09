@@ -1,3 +1,6 @@
+
+rm -r output-* 
+
 # find . -executable -type f
 ./build/src/HPOphenoSemSimComb_run
 

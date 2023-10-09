@@ -24,20 +24,20 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
 
-#      - name: Set up and install few things first
-#        run: bash setup.sh
+      - name: Set up and install few things first
+        run: bash setup.sh
 
-#      - name: Download HPO resource
-#        run: bash download_HPO_data.sh
+      - name: Download HPO resource
+        run: bash download_HPO_data.sh
       
-#      - name: Compiles and build the executables
-#        run: bash build.sh
+      - name: Compiles and build the executables
+        run: bash build.sh
 
-#      - name: Run unit tests
-#        run: bash test.sh
+      - name: Run unit tests
+        run: bash test.sh
           
-#      - name: Runs the program using the user-provided input found in "Input/", which results in an annotated table found in the directory "output-$date/"
-#        run: bash run.sh
+      - name: Runs the program using the user-provided input found in "Input/", which results in an annotated table found in the directory "output-$date/"
+        run: bash run.sh
 
       - name: Commit and push changes
         run: |

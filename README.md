@@ -11,5 +11,5 @@ Alternatively one can execute locally the different steps as executed by the Git
 - test.sh : performs unit tests
 - run.sh : runs the program using the user-provided input found in "Input/", which results in an annotated table found in the directory "output-$date/"
 
-twincacca
+Antoine Buetti-Dinh
 

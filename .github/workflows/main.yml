@@ -44,6 +44,6 @@ jobs:
           git config --global user.name "twincacca"
           git config --global user.email "twincacca@gmail.com"
           git add .
-          git commit -m "commit message xxx"
+          git commit -m " "
           git push
           
